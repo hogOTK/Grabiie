@@ -30,6 +30,7 @@ ____██_____██
   └─ 🐊 ${prefix}bugreport
 🧐 *FAZER*
   │
+  ├─ 🐊 ${prefix}f
   ├─ 🐊 ${prefix}sticker
   ├─ 🐊 ${prefix}stickergif
   ├─ 🐊 ${prefix}toimg

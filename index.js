@@ -1280,7 +1280,7 @@ case 'timer':
 					client.groupSettingChange (from, GroupSettingChange.messageSend, false)
 					client.sendMessage(from, open, text, {quoted: mek})
 					break
-				case 'stiker':
+				case 'f':
 				case 'sticker':
 				case 'stickergif':
 				case 'stikergif':
